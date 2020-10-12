@@ -72,6 +72,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Evidence [in onshape]https://cvilleschools.onshape.com/documents/12bf52a5b4c5def19aa94d6b/w/65a80e30c965995ec7d3de16/e/9b3586b1138ef9899b0a7a8b
 
 ### Image 
+<img src="https://github.com/cdavis-ai/baisc-cad/blob/master/images/Screenshot%202020-10-12%20at%204.06.16%20PM.png?raw=true">
 
 ### Reflection /in this one i learnd how to revolve a sketch and add flitts
 
