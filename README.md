@@ -67,26 +67,26 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ## Tire
 
-### Description
+### Description/it is a part with a outer diamiter of 110mm and a inner diamiter of 80mm and a leangth of 20mm
 
-### Evidence
+### Evidence [in onshape]https://cvilleschools.onshape.com/documents/12bf52a5b4c5def19aa94d6b/w/65a80e30c965995ec7d3de16/e/9b3586b1138ef9899b0a7a8b
 
-### Image
+### Image 
 
-### Reflection
+### Reflection /in this one i learnd how to revolve a sketch and add flitts
 
 ---
 
 
 ## Wheel
 
-### Description
+### Description the wheel has a outerdimention of 80 a inner dimention of 20  a leangth of 20
 
-### Evidence
+### Evidence https://cvilleschools.onshape.com/documents/e13d0529e431c7ffabc4197f/w/091d4e42aae4c1b380ad6fa5/e/aec1782387394066f0e768e5
 
 ### Image
 
-### Reflection
+### Reflectionin this one i learnd how to repeat a patter acrost a cicular face and how to use lines to make cuts
 
 ---
 
