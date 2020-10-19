@@ -94,12 +94,12 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ## AxleCollarBearings
 
-### Description
+### Description it is the center point for witch the wheel will be mounted it has a center distence of 60mm a raidus of 5 mm and a diamiter of 6mm
 
-### Evidence
+### Evidence https://cvilleschools.onshape.com/documents/d07151d8eda0e23602aee417/w/df7bc0ffe289e93eb90e32b7/e/f9f0de051204d975fccef135
 
 ### Image
 
-### Reflection
+### Reflection in this one i leand that you can make more than one part in a single document
 
 ---
